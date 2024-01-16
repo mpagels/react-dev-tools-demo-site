@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.Counter {
+  border: #282c34 solid 1px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.TextInput {
+  border: #282c34 solid 1px;
+  margin: 20px;
+  padding: 20px;
+}
